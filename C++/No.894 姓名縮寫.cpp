@@ -1,4 +1,4 @@
-// Sprout OJ No.894 姓名縮寫
+// Sprout OJ No.894-姓名縮寫
 #include <bits/stdc++.h>
 using namespace std;
 

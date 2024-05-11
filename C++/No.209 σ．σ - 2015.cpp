@@ -1,4 +1,4 @@
-// Sprout OJ No.209 σ．σ - 2015
+// Sprout OJ No.209-σ．σ - 2015
 #include <bits/stdc++.h>
 using namespace std;
 
