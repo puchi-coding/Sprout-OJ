@@ -13,8 +13,10 @@ int main() {
     }
     
     for (int i = 0; i < 26; i++) {
-        cout << count[i] ;
-        if (i < 25) cout << " " ;
+        cout << count[i] <<endl;
+        if (i < 25){
+            cout << " " << endl;
+            }
     }
     return 0 ;
 }
